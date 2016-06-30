@@ -8,7 +8,7 @@
 			$_SESSION["cpid_error"]='true';
 			setcookie("cpid",'', time() -1, "/");
 			setcookie("temp_cpid",'', time() -1, "/");
-			header('Location: index.php');
+			header('Location: login.php');
 			exit();	
     }else{
     	$_SESSION["cpid_error"]='false';
