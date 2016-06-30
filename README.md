@@ -33,3 +33,4 @@ Accept.js is a new integration option which allows you to leverage the full powe
 The sample application shows how to:  
 1.  Incorporate the Accept.js library into your existing payment flow (Home page, PAY button)
 
+# avenger-app
